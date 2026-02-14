@@ -1,0 +1,13 @@
+{
+  "name": "com.yann.cyberengine.exporter",
+  "version": "0.1.0",
+  "displayName": "CyberEngine Unity Exporter",
+  "description": "Exports Unity scenes/assets to CyberEngine bundle format (C++ scene + JSON debug + assets).",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.2"
+  },
+  "author": {
+    "name": "yann"
+  }
+}
